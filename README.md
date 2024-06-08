@@ -34,7 +34,7 @@ Grofers aims to revolutionize the online grocery shopping experience by providin
 
 ## 🌐 Deployment
 
-- **Frontend**: Deployed on [Vercel](https://grofers.vercel.com).
+- **Frontend**: Deployed on [Vercel](https://grofers.vercel.app).
 - **Backend**: Deployed on [Render](https://render.com).
 
 ## 📸 Screenshots
